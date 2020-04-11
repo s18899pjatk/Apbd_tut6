@@ -1,0 +1,7 @@
+Method: POST
+Path: /api/students
+Query: ?s=Something&s2=smth
+Request body:
+{
+	"Data": "asdas"
+}
